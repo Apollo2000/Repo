@@ -1,3 +1,10 @@
+[B]3.9.5[/B]
++ Fix: TV Guide file
++ Fix: Domain change
+
+[B]3.9.4[/B]
++ Fix: Kodi 18 PVR
+
 [B]3.9.2[/B]
 + Add: Movies Netflix Category
 + Add: Tv shows Kids Category
