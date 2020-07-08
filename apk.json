@@ -1,9 +1,11 @@
 {
 	"result": {
 		"version": "1.5.1",
-		"com.alpha.iptv.android.debug.phone": "https://apg.ooo/ao.apk",
-		"com.alpha.iptv.android.debug.tv": "https://apg.ooo/aotv.apk",
-		"tv.apollogroup.android.debug.phone": "https://apg.ooo/ap.apk",
-		"tv.apollogroup.android.debug.tv": "https://apg.ooo/aptv.apk"
+		"packs": {
+			"com.alpha.iptv.android.debug.phone": "https://apg.ooo/ao.apk",
+			"com.alpha.iptv.android.debug.tv": "https://apg.ooo/aotv.apk",
+			"tv.apollogroup.android.debug.phone": "https://apg.ooo/ap.apk",
+			"tv.apollogroup.android.debug.tv": "https://apg.ooo/aptv.apk"
+		}
 	}
 }
