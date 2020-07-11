@@ -8,8 +8,8 @@
 			"tv.apollogroup.android.debug.tv": "https://apg.ooo/aptv.apk",
 			"com.fivestarstreams.android.debug.phone": "https://apg.ooo/fivestar.apk",
 			"com.fivestarstreams.android.debug.tv": "https://apg.ooo/fivestartv.apk"
-			"tv.startupshow.android": "https://apg.ooo/ss.apk",
-			"tv.startupshow.androidtv": "https://apg.ooo/sstv.apk"
+			"tv.startupshow.android.debug.phone": "https://apg.ooo/ss.apk",
+			"tv.startupshow.android.debug.tv": "https://apg.ooo/sstv.apk"
 		}
 	}
 }
