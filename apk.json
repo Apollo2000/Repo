@@ -9,7 +9,13 @@
 			"com.fivestarstreams.android.debug.phone": "https://apg.ooo/fivestar.apk",
 			"com.fivestarstreams.android.debug.tv": "https://apg.ooo/fivestartv.apk",
 			"tv.startupshow.android.debug.phone": "https://apg.ooo/ss.apk",
-			"tv.startupshow.android.debug.tv": "https://apg.ooo/sstv.apk"
+			"tv.startupshow.android.debug.tv": "https://apg.ooo/sstv.apk",
+			"com.koctv.android.debug.phone": "https://apg.ooo/koc.apk",
+			"com.koctv.android.debug.tv": "https://apg.ooo/koctv.apk",
+			"com.islandstreams.android.debug.phone": "https://apg.ooo/island.apk",
+			"com.islandstreams.android.debug.tv": "https://apg.ooo/islandtv.apk",
+			"com.cmctv.android.debug.phone": "https://apg.ooo/cmc.apk",
+			"com.cmctv.android.debug.tv": "https://apg.ooo/cmctv.apk"
 		}
 	}
 }
