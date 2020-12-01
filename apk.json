@@ -16,8 +16,8 @@
 			"com.islandstreams.android.debug.tv": "https://apg.ooo/islandtv.apk",
 			"com.cmctv.android.debug.phone": "https://apg.ooo/cmc.apk",
 			"com.cmctv.android.debug.tv": "https://apg.ooo/cmctv.apk",
-			"com.creative.android.debug.phone": "https://apg.ooo/creative.apk",
-			"com.creative.android.debug.tv": "https://apg.ooo/creativetv.apk"			
+			"com.creativetv.android.debug.phone": "https://apg.ooo/creative.apk",
+			"com.creativetv.android.debug.tv": "https://apg.ooo/creativetv.apk"			
 		}
 	}
 }
