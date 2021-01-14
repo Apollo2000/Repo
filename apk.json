@@ -1,6 +1,6 @@
 {
 	"result": {
-		"version": "1.6.4",
+		"version": "1.7.0",
 		"packs": {
 			"com.alpha.iptv.android.debug.phone": "https://apg.ooo/ao.apk",
 			"com.alpha.iptv.android.debug.tv": "https://apg.ooo/aotv.apk",
@@ -19,7 +19,9 @@
 			"com.creativetv.android.debug.phone": "https://apg.ooo/creative.apk",
 			"com.creativetv.android.debug.tv": "https://apg.ooo/creativetv.apk",
 			"com.imagentv.android.debug.phone": "https://apg.ooo/imagen.apk",
-			"com.imagentv.android.debug.tv": "https://apg.ooo/imagentv.apk"
+			"com.imagentv.android.debug.tv": "https://apg.ooo/imagentv.apk",
+			"com.rscg.android.debug.phone": "https://apg.ooo/rscg.apk",
+			"com.rscg.android.debug.tv": "https://apg.ooo/rscgtv.apk"
 		}
 	}
 }
