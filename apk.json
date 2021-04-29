@@ -1,6 +1,6 @@
 {
 	"result": {
-		"version": "1.7.3",
+		"version": "1.7.4",
 		"packs": {
 			"com.alpha.iptv.android.debug.phone": "https://apg.ooo/PhoneStartupShow-alphaomega-release.apk",
 			"com.alpha.iptv.android.debug.tv": "https://apg.ooo/TvStartupShow-tvBox-alphaomega-release.apk",
