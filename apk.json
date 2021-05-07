@@ -47,7 +47,11 @@
 			"com.recezillatv.android": "https://apg.ooo/PhoneStartupShow-recezillatv-release.apk",
 			"com.recezillatv.androidtv": "https://apg.ooo/TvStartupShow-tvBox-recezillatv-release.apk",
 			"com.magictv.android": "https://apg.ooo/PhoneStartupShow-magictv-release.apk",
-			"com.magictv.androidtv": "https://apg.ooo/TvStartupShow-tvBox-magictv-release.apk"
+			"com.magictv.androidtv": "https://apg.ooo/TvStartupShow-tvBox-magictv-release.apk",
+			"com.iheart.android": "https://apg.ooo/PhoneStartupShow-iheart-release.apk",
+			"com.iheart.androidtv": "https://apg.ooo/TvStartupShow-tvBox-iheart-release.apk",
+			"com.crescent.android": "https://apg.ooo/PhoneStartupShow-crescent-release.apk",
+			"com.crescent.androidtv": "https://apg.ooo/TvStartupShow-tvBox-crescent-release.apk"		
 		}
 	}
 }
