@@ -51,7 +51,11 @@
 			"com.iheart.android": "https://apg.ooo/PhoneStartupShow-iheart-release.apk",
 			"com.iheart.androidtv": "https://apg.ooo/TvStartupShow-tvBox-iheart-release.apk",
 			"com.crescent.android": "https://apg.ooo/PhoneStartupShow-crescent-release.apk",
-			"com.crescent.androidtv": "https://apg.ooo/TvStartupShow-tvBox-crescent-release.apk"		
+			"com.crescent.androidtv": "https://apg.ooo/TvStartupShow-tvBox-crescent-release.apk",	
+			"com.omnivision.android": "https://apg.ooo/PhoneStartupShow-omnivision-release.apk",
+			"com.omnivision.androidtv": "https://apg.ooo/TvStartupShow-tvBox-omnivision-release.apk",		
+			"com.murf.android": "https://apg.ooo/PhoneStartupShow-murf-release.apk",
+			"com.murf.androidtv": "https://apg.ooo/TvStartupShow-tvBox-murf-release.apk"		
 		}
 	}
 }
